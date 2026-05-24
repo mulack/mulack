@@ -102,13 +102,15 @@ I also create and publish small games and prototypes.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
+
+I use GitHub to organize study projects, backend APIs, frontend experiments, mobile apps, game prototypes, and portfolio work.
 
 <div align="center">
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulack&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mulack&layout=compact&theme=tokyonight&hide_border=true)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mulack?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-In%20Progress-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mulack/gustfolio)
+[![Games](https://img.shields.io/badge/GX%20Games-Published%20Games-7D3CFF?style=for-the-badge&logo=opera&logoColor=white)](https://gx.games/pt-br/)
 
 </div>
 
