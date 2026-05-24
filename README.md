@@ -40,7 +40,7 @@ Currently, I am improving my portfolio, organizing my public projects, and deepe
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css)
 
 ### Backend and Databases
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,postgres,mongodb,prisma)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,postgres,prisma)
 
 ### Mobile, Games and Tools
 ![Mobile Games Tools](https://skillicons.dev/icons?i=flutter,androidstudio,cs,unity,java,git,docker,figma)
